@@ -1,0 +1,25 @@
+{
+  "name": "dify-knowledge-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Dify knowledge base integration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "dify",
+    "mcp",
+    "nodejs",
+    "knowledge-base",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.0.3"
+  }
+}
