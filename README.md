@@ -210,4 +210,4 @@ node index.js
 
 ## 许可证
 
-ISC License
+MIT License
